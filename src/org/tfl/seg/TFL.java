@@ -48,8 +48,8 @@ public class TFL {
 		
 //		try {
 //			Mongo m = new Mongo("ds029817.mongolab.com", 29817);
-//			DB db = m.getDB("steve_srwc");
-//			char[] pass = new char[] {'s','k','u','n','k','p','u','s','s','y'};
+//			DB db = m.getDB("");
+//			char[] pass = new char[] {};
 //			boolean authed = db.authenticate("steven", pass);
 //			
 //			if (authed) {
